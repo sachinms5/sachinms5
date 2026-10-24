@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./profile-dashboard.png" width="100%" alt="Sachin MS — Futuristic Developer Dashboard"/>
-
+<img src="./profile-dashboard.png?v=2" width="100%" alt="Sachin MS — Futuristic Developer Dashboard"/>
 ### `STUDENT DEVELOPER • AI/ML • WEB DEVELOPMENT`
 
 *Learning by building. Turning ideas into working projects.*
