@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-dashboard-motion.gif" width="100%" alt="Sachin MS — Futuristic developer dashboard with a revolving Earth, flowing neural connections, and orbital light sculpture"/>
+<img src="./profile-dashboard-motion.gif" width="100%" alt="Sachin MS — Futuristic developer dashboard with a stationary Earth, animated India network routes, flowing neural connections, and orbital light sculpture"/>
 
 <a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00DDB0&center=true&vCenter=true&width=760&lines=AI%2FML+%7C+WEB+DEVELOPMENT;Building+the+future+with+code;Learning+by+building+%E2%80%A2+Shipping+real+projects" alt="Animated typing: AI and ML, web development, building the future with code"/></a>
 
