@@ -2,6 +2,8 @@
 
 <img src="./profile-dashboard.png" width="100%" alt="Sachin MS — Futuristic Developer Dashboard"/>
 
+<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00DDB0&center=true&vCenter=true&width=760&lines=AI%2FML+%7C+WEB+DEVELOPMENT;Building+the+future+with+code;Learning+by+building+%E2%80%A2+Shipping+real+projects" alt="Animated typing: AI and ML, web development, building the future with code"/></a>
+
 ### `STUDENT DEVELOPER • AI/ML • WEB DEVELOPMENT`
 
 *Learning by building. Turning ideas into working projects.*
@@ -27,7 +29,7 @@ I'm learning by building practical projects, experimenting with technologies, an
 
 ## `> FEATURED PROJECTS`
 
-### 01. ANTARA — AI Competency Intelligence Platform
+### `01` / ANTARA — AI Competency Intelligence Platform
 
 An AI-focused platform exploring competency intelligence and intelligent systems.
 
@@ -41,9 +43,7 @@ An AI-focused platform exploring competency intelligence and intelligent systems
 
 ---
 
-### 02. NESHAKTI — Logistics & Accessibility Intelligence
-
-
+### `02` / NESHAKTI — Logistics & Accessibility Intelligence
 
 A prototype concept focused on logistics, route planning, weather awareness, and accessibility across Northeast India.
 
@@ -59,14 +59,12 @@ A prototype concept focused on logistics, route planning, weather awareness, and
 ## `> TECH ARSENAL`
 
 **Programming**
-
 ![C](https://img.shields.io/badge/C-07110D?style=flat-square&logo=c&logoColor=50E890)
 ![C++](https://img.shields.io/badge/C%2B%2B-07110D?style=flat-square&logo=cplusplus&logoColor=50E890)
 ![Python](https://img.shields.io/badge/Python-07110D?style=flat-square&logo=python&logoColor=50E890)
 ![JavaScript](https://img.shields.io/badge/JavaScript-07110D?style=flat-square&logo=javascript&logoColor=50E890)
 
 **Web development**
-
 ![HTML5](https://img.shields.io/badge/HTML5-07110D?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-07110D?style=flat-square&logo=css3&logoColor=1572B6)
 ![Node.js](https://img.shields.io/badge/Node.js-07110D?style=flat-square&logo=nodedotjs&logoColor=68A063)
@@ -74,7 +72,6 @@ A prototype concept focused on logistics, route planning, weather awareness, and
 ![FastAPI](https://img.shields.io/badge/FastAPI-07110D?style=flat-square&logo=fastapi&logoColor=009688)
 
 **Tools**
-
 ![Git](https://img.shields.io/badge/Git-07110D?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-07110D?style=flat-square&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-07110D?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
@@ -85,9 +82,10 @@ A prototype concept focused on logistics, route planning, weather awareness, and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sachinms5&show_icons=true&hide_border=true&bg_color=07110D&title_color=00DDB0&icon_color=00DDB0&text_color=D5EDE5" width="100%" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinms5&show_icons=true&hide_border=true&bg_color=07110D&title_color=00DDB0&icon_color=00DDB0&text_color=D5EDE5&rank_icon=github" alt="Live GitHub statistics for sachinms5"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinms5&layout=compact&hide_border=true&bg_color=07110D&title_color=00DDB0&text_color=D5EDE5" alt="Most-used programming languages for sachinms5"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinms5&layout=compact&hide_border=true&bg_color=07110D&title_color=00DDB0&text_color=D5EDE5" width="100%" alt="Most-used programming languages"/>
+<a href="https://github.com/sachinms5"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinms5&bg_color=07110D&color=00DDB0&line=00DDB0&point=D5EDE5&area=true&hide_border=true" alt="GitHub contribution activity graph"/></a>
 
 </div>
 
@@ -113,6 +111,6 @@ A prototype concept focused on logistics, route planning, weather awareness, and
 
 **INNOVATE • BUILD • REPEAT**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DDB0,50:123D28,100:07110D&height=100&section=footer" width="100%" alt="Emerald footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DDB0,50:123D28,100:07110D&height=100&section=footer" width="100%" alt="Emerald animated footer"/>
 
 </div>
